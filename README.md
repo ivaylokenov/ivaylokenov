@@ -8,6 +8,8 @@
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCP5Ons7fK3yKhX6lhc9XcfQ?label=Code%20It%20Up%20Views&style=social)](https://www.youtube.com/c/CodeItUpwithIvo)
 
+[![Nuget](https://img.shields.io/nuget/dt/MyTested.WebApi?label=Best%20NuGet%20Package)](https://www.nuget.org/profiles/ivaylo.kenov)
+
 ### GitHub Stats
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaylokenov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
