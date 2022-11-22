@@ -1,6 +1,6 @@
 ### Hi, I am Ivaylo Kenov! 👋
 
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCP5Ons7fK3yKhX6lhc9XcfQ?label=Code%20It%20Up%20Views&style=social)](https://www.youtube.com/c/CodeItUpwithIvo) 
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCP5Ons7fK3yKhX6lhc9XcfQ?label=YouTube%20Views&style=social)](https://www.youtube.com/c/CodeItUpwithIvo) 
 
 [![Nuget](https://img.shields.io/badge/NuGet%20Downloads-5M-brightgreen)](https://www.nuget.org/profiles/ivaylo.kenov) [![Nuget](https://img.shields.io/nuget/dt/MyTested.WebApi?label=Best%20NuGet%20Package)](https://www.nuget.org/profiles/ivaylo.kenov) 
 
