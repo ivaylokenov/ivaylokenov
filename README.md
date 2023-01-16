@@ -17,4 +17,4 @@
 
 ### GitHub Trophies
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ivaylokenov&rank=-C,-B&margin-w=48" alt="GitHub Trophies" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ivaylokenov&rank=-C,-B" alt="GitHub Trophies" />
