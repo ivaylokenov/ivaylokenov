@@ -1,7 +1,7 @@
 ### Hi, I am Ivaylo Kenov! 👋
 
-🔥 CEO @ AMBITIONED<br>
-💻 CTO @ SoftUni<br> 
+🔥 Ex-CEO @ AMBITIONED<br>
+💻 Ex-CTO @ SoftUni<br> 
 🤯 20x Founder<br>
 😎 C-level in 4 Successful Startups<br>
 🤓 Technical Trainer with 1000+ Lectures<br>
@@ -17,11 +17,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/ivaylo.kenov/)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ivaylokenov/) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivokenov/) 
-
-### GitHub Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ivaylokenov&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaylokenov&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
 
 ### GitHub Trophies
 
